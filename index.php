@@ -15,7 +15,7 @@
     $name = "MICHEL DUCHEM..";
     $types = array("Livres","Articles","Périodiques","Thèses / Mémoires","Actes de conférence","Brevets","Cartes","Livre anciens");
     include("vue/header/header.php");
-    include("vue/footer.html");
+    include("vue/footer/footer.html");
     ?>
 </body>
 </html>
